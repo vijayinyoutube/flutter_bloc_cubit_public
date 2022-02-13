@@ -48,7 +48,9 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 ```pubspec.yaml
   flutter_bloc: ^8.0.1
 ```
+## Sample Result
 
+<img src="https://user-images.githubusercontent.com/58719230/153771971-838cac64-e230-42a0-9dd8-caa3deb5e394.png" width="250" height="500">
 
 ## License
 
